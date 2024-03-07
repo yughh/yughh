@@ -106,7 +106,7 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api?username=yughh&show_icons=true&theme=dracula&card_width=400"/>
   </br>
   </br>
-   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seyjang"/>
+   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yugb"/>
    <img src="http://mazandi.herokuapp.com/api?handle=seyjang&theme=warm"/>
   </div>
 
