@@ -107,7 +107,7 @@ Here are some ideas to get you started:
   </br>
   </br>
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yugb"/>
-   <img src="http://mazandi.herokuapp.com/api?handle=seyjang&theme=warm"/>
+   <img src="http://mazandi.herokuapp.com/api?handle=yugb&theme=warm"/>
   </div>
 
 
