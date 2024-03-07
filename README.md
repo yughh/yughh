@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:CFFFBC,100:FFC5D8&height=250&section=header&text=Yugyeong's%20github%20👩‍💻&fontSize=40&customColorList=24&fontAlign=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE4F7,100:FFBBEC&height=250&section=header&text=Yugyeong's%20github%20👩‍💻&fontSize=40&customColorList=24&fontAlign=40)
 <br/>  
 
   <h3>🛠️ Tech Stack 🛠️</h3>
