@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **yughh/yughh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,9 +52,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  
+  <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE4F7,100:FFBBEC&height=250&section=header&text=Yugyeong's%20github%20👩‍💻&fontSize=40&customColorList=24&fontAlign=40)
-<br/>  
+<br/>  -->
 
   <h3>🛠️ Tech Stack 🛠️</h3>
   <hr/>
@@ -88,9 +87,7 @@ Here are some ideas to get you started:
   <br/><br/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/>
-  <br/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
   <br/>
   
   <strong>Collaboration</strong>
